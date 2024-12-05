@@ -1,5 +1,5 @@
 # TDDC73-Interaktionsprogrammering
-just the files with code
+Lab code and Screencast links to all the labs in the course TDDC73.
 
 Here are the screencast links for each lab.
 
